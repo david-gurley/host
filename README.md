@@ -1,3 +1,1 @@
-# utilities for dealing with hosts 
-
-* Need to add for non-linux environments.
+# utilities for functions on hosts (workloads) 
